@@ -10,7 +10,7 @@
 const lis = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Python, SQL],
-  tools: [React, Node, Jest],
+  tools: [React, Node, Jest, Bootstrap],
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am excited to collaborate and contribute to the ever-evolving field of software development."</b> :)</em>
