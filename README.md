@@ -9,7 +9,7 @@
 ```javascript
 const lis = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, Typescript, HTML, CSS, Python, SQL],
   tools: [React, Node, Jest],
 }
 ```
